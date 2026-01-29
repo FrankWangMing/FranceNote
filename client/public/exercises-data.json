@@ -1,0 +1,559 @@
+{
+  "A1": [
+    {
+      "textId": 0,
+      "title": "课文 1: 自我介绍",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "Marie 来自哪个国家？",
+          "options": [
+            "法国",
+            "德国",
+            "英国",
+            "西班牙"
+          ],
+          "correct": 0,
+          "explanation": "课文中说\"Je suis française\"，表示玛丽是法国人。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Marie 住在哪个城市？",
+          "options": [
+            "伦敦",
+            "柏林",
+            "巴黎",
+            "马德里"
+          ],
+          "correct": 2,
+          "explanation": "课文中说\"J'habite à Paris\"，表示玛丽住在巴黎。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Je m'appelle _____. Je suis _____.",
+          "blanks": [
+            "Marie",
+            "française"
+          ],
+          "hint": "根据课文填空：我叫___。我是___。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Je suis étudiante.",
+          "answer": "我是学生。",
+          "hint": "注意 étudiante 是女性形式"
+        }
+      ]
+    },
+    {
+      "textId": 1,
+      "title": "课文 2: 在咖啡馆",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "顾客点的是什么？",
+          "options": [
+            "茶",
+            "咖啡",
+            "果汁",
+            "水"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Un café, s'il vous plaît\"，表示要一杯咖啡。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "咖啡多少钱？",
+          "options": [
+            "2欧元",
+            "3欧元",
+            "4欧元",
+            "5欧元"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Trois euros\"，表示三欧元。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Un _____, s'il vous plaît. Ça coûte _____.",
+          "blanks": [
+            "café",
+            "trois euros"
+          ],
+          "hint": "根据课文填空：一___，请。多少钱？___。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Ça coûte combien?",
+          "answer": "多少钱？",
+          "hint": "coûter 表示花费"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "课文 3: 问路",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "这个人在问什么？",
+          "options": [
+            "医院在哪",
+            "火车站在哪",
+            "学校在哪",
+            "银行在哪"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"où est la gare?\"，表示问火车站在哪里。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "火车站离这里有多远？",
+          "options": [
+            "很远",
+            "很近",
+            "中等距离",
+            "不知道"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"La gare est près d'ici\"，表示火车站就在这附近。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Excusez-moi, où est la _____? La gare est _____ d'ici.",
+          "blanks": [
+            "gare",
+            "près"
+          ],
+          "hint": "根据课文填空：对不起，___在哪？___就在这附近。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Merci beaucoup!",
+          "answer": "非常感谢！",
+          "hint": "beaucoup 表示很多/非常"
+        }
+      ]
+    }
+  ],
+  "A2": [
+    {
+      "textId": 0,
+      "title": "课文 1: 家庭介绍",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "这个人有多少个兄弟姐妹？",
+          "options": [
+            "2个",
+            "3个",
+            "4个",
+            "5个"
+          ],
+          "correct": 2,
+          "explanation": "课文中说\"deux frères et une sœur\"，共3个兄弟姐妹。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "他们住在一起吗？",
+          "options": [
+            "是",
+            "否",
+            "不清楚",
+            "有时候"
+          ],
+          "correct": 0,
+          "explanation": "课文中说\"Nous habitons ensemble\"，表示他们住在一起。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "J'ai un _____, une _____, _____ frères et une sœur.",
+          "blanks": [
+            "père",
+            "mère",
+            "deux"
+          ],
+          "hint": "根据课文填空：我有一个___，一个___，___个哥哥和一个妹妹。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Ma famille est grande.",
+          "answer": "我的家庭很大。",
+          "hint": "grand 表示大的"
+        }
+      ]
+    },
+    {
+      "textId": 1,
+      "title": "课文 2: 日常活动",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "这个人几点起床？",
+          "options": [
+            "6点",
+            "7点",
+            "8点",
+            "9点"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Je me lève à 7 heures\"，表示7点起床。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "他/她什么时候回家？",
+          "options": [
+            "16点",
+            "17点",
+            "18点",
+            "19点"
+          ],
+          "correct": 2,
+          "explanation": "课文中说\"Je rentre à 18 heures\"，表示下午6点回家。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Je me lève à _____ heures. Je vais au _____. Je rentre à _____ heures.",
+          "blanks": [
+            "7",
+            "travail",
+            "18"
+          ],
+          "hint": "根据课文填空：我___点起床。我去___。我___点回家。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Je prends le petit-déjeuner.",
+          "answer": "我吃早餐。",
+          "hint": "petit-déjeuner 是早餐"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "课文 3: 购物",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "这个人想要什么？",
+          "options": [
+            "蓝色连衣裙",
+            "红色连衣裙",
+            "黑色连衣裙",
+            "白色连衣裙"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Je voudrais une robe rouge\"，表示要红色连衣裙。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "连衣裙的价格是多少？",
+          "options": [
+            "40欧元",
+            "45欧元",
+            "50欧元",
+            "55欧元"
+          ],
+          "correct": 2,
+          "explanation": "课文中说\"Ça coûte 50 euros\"，表示50欧元。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Je voudrais une robe _____. Taille _____. Ça coûte _____ euros.",
+          "blanks": [
+            "rouge",
+            "M",
+            "50"
+          ],
+          "hint": "根据课文填空：我想要一件___连衣裙。___码。___欧元。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Quelle taille?",
+          "answer": "什么尺寸？",
+          "hint": "taille 表示尺寸/大小"
+        }
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "textId": 0,
+      "title": "课文 1: 工作经验",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "这个人在公司工作了多久？",
+          "options": [
+            "1年",
+            "2年",
+            "3年",
+            "4年"
+          ],
+          "correct": 2,
+          "explanation": "课文中说\"pendant trois ans\"，表示三年。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "他/她的工作感受如何？",
+          "options": [
+            "很无聊",
+            "有趣但压力大",
+            "很轻松",
+            "不喜欢"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"intéressant mais stressant\"，表示有趣但压力大。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "J'ai travaillé dans une _____ pendant _____ ans. J'étais _____ du marketing.",
+          "blanks": [
+            "entreprise",
+            "trois",
+            "responsable"
+          ],
+          "hint": "根据课文填空：我在___工作了___年。我是___部门的负责人。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Le travail était intéressant mais stressant.",
+          "answer": "这项工作很有趣但压力很大。",
+          "hint": "intéressant 表示有趣的，stressant 表示压力大的"
+        }
+      ]
+    },
+    {
+      "textId": 1,
+      "title": "课文 2: 旅行计划",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "这个人什么时候去法国？",
+          "options": [
+            "春天",
+            "夏天",
+            "秋天",
+            "冬天"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"cet été\"，表示今年夏天。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "他/她计划访问哪些城市？",
+          "options": [
+            "巴黎和伦敦",
+            "巴黎、里昂和马赛",
+            "巴黎和柏林",
+            "里昂和马德里"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Paris, Lyon et Marseille\"。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Je vais voyager en France _____ _____. Je visiterai _____, _____ et _____.",
+          "blanks": [
+            "cet",
+            "été",
+            "Paris",
+            "Lyon",
+            "Marseille"
+          ],
+          "hint": "根据课文填空：我___去法国旅行。我将访问___、___和___。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Je suis très excité!",
+          "answer": "我非常兴奋！",
+          "hint": "excité 表示兴奋的"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "课文 3: 环境问题",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "课文讨论的主要问题是什么？",
+          "options": [
+            "污染",
+            "气候变化",
+            "贫困",
+            "教育"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Le changement climatique est un problème grave\"。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "我们应该做什么？",
+          "options": [
+            "增加排放",
+            "减少排放",
+            "保持现状",
+            "不关心"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Nous devons réduire les émissions de carbone\"。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Le _____ _____ est un problème grave. Nous devons _____ les _____.",
+          "blanks": [
+            "changement",
+            "climatique",
+            "réduire",
+            "émissions"
+          ],
+          "hint": "根据课文填空：___是一个严重的问题。我们必须___。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Chacun peut contribuer.",
+          "answer": "每个人都可以做出贡献。",
+          "hint": "chacun 表示每个人"
+        }
+      ]
+    }
+  ],
+  "B2": [
+    {
+      "textId": 0,
+      "title": "课文 1: 文化差异",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "课文认为文化差异的作用是什么？",
+          "options": [
+            "分裂社会",
+            "丰富社会",
+            "削弱国家",
+            "造成冲突"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Les différences culturelles enrichissent notre société\"。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "和平共处的关键是什么？",
+          "options": [
+            "权力",
+            "金钱",
+            "宽容",
+            "武力"
+          ],
+          "correct": 2,
+          "explanation": "课文中说\"La tolérance est la clé de la coexistence pacifique\"。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "Les différences culturelles _____ notre société. Il est important de _____ les traditions des autres.",
+          "blanks": [
+            "enrichissent",
+            "respecter"
+          ],
+          "hint": "根据课文填空：文化差异___我们的社会。___他人的传统很重要。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：La tolérance est la clé de la coexistence pacifique.",
+          "answer": "宽容是和平共处的关键。",
+          "hint": "tolérance 表示宽容，clé 表示关键"
+        }
+      ]
+    },
+    {
+      "textId": 1,
+      "title": "课文 2: 科技进步",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "互联网的主要优势是什么？",
+          "options": [
+            "提高成本",
+            "即时沟通",
+            "增加隐私",
+            "减少联系"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Internet nous permet de communiquer instantanément\"。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "课文提到的主要风险是什么？",
+          "options": [
+            "成本高",
+            "网络安全",
+            "速度慢",
+            "不可靠"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"nous devons être vigilants face aux risques de cybersécurité\"。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "La technologie a _____ notre vie quotidienne. Internet nous permet de communiquer _____.",
+          "blanks": [
+            "transformé",
+            "instantanément"
+          ],
+          "hint": "根据课文填空：技术___我们的日常生活。互联网让我们能够___沟通。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：Cependant, nous devons être vigilants.",
+          "answer": "然而，我们必须保持警惕。",
+          "hint": "cependant 表示然而，vigilant 表示警惕的"
+        }
+      ]
+    },
+    {
+      "textId": 2,
+      "title": "课文 3: 教育改革",
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "question": "教育的作用是什么？",
+          "options": [
+            "增加贫困",
+            "个人发展的基础",
+            "浪费时间",
+            "造成问题"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"L'éducation est la fondation du développement personnel\"。"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "教育系统应该如何改变？",
+          "options": [
+            "保持不变",
+            "适应21世纪需求",
+            "回到过去",
+            "更加严格"
+          ],
+          "correct": 1,
+          "explanation": "课文中说\"Les systèmes éducatifs doivent s'adapter aux besoins du 21e siècle\"。"
+        },
+        {
+          "type": "fill_blank",
+          "question": "L'éducation est la _____ du développement personnel. L'_____ tout au long de la vie est essentiel.",
+          "blanks": [
+            "fondation",
+            "apprentissage"
+          ],
+          "hint": "根据课文填空：教育是___。___是必不可少的。"
+        },
+        {
+          "type": "translation",
+          "question": "翻译：L'apprentissage tout au long de la vie est essentiel.",
+          "answer": "终身学习是必不可少的。",
+          "hint": "apprentissage 表示学习，essentiel 表示必不可少的"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "A1": {
+    "vocabulary": {
+      "Je m'appelle": "/audio/A1_vocab_0.mp3",
+      "Je suis": "/audio/A1_vocab_1.mp3",
+      "J'habite à": "/audio/A1_vocab_2.mp3",
+      "Enchanté(e)": "/audio/A1_vocab_3.mp3",
+      "Bienvenue": "/audio/A1_vocab_4.mp3",
+      "Combien ça coûte": "/audio/A1_vocab_5.mp3",
+      "Je voudrais": "/audio/A1_vocab_6.mp3",
+      "Allez tout droit": "/audio/A1_vocab_7.mp3",
+      "Tournez à droite": "/audio/A1_vocab_8.mp3",
+      "Tournez à gauche": "/audio/A1_vocab_9.mp3",
+      "père": "/audio/A1_vocab_10.mp3",
+      "mère": "/audio/A1_vocab_11.mp3",
+      "frère": "/audio/A1_vocab_12.mp3",
+      "sœur": "/audio/A1_vocab_13.mp3",
+      "pain": "/audio/A1_vocab_14.mp3",
+      "fromage": "/audio/A1_vocab_15.mp3",
+      "fruit": "/audio/A1_vocab_16.mp3",
+      "eau": "/audio/A1_vocab_17.mp3",
+      "professeur": "/audio/A1_vocab_18.mp3",
+      "étudiant": "/audio/A1_vocab_19.mp3"
+    },
+    "dialogues": {
+      "Tu viens d'où": "/audio/A1_dialog_0.mp3",
+      "Je viens de Chine": "/audio/A1_dialog_1.mp3",
+      "Ça vaut le coup": "/audio/A1_dialog_2.mp3",
+      "Je vais payer par carte": "/audio/A1_dialog_3.mp3",
+      "Excusez-moi": "/audio/A1_dialog_4.mp3",
+      "C'est loin d'ici": "/audio/A1_dialog_5.mp3",
+      "C'est près d'ici": "/audio/A1_dialog_6.mp3"
+    }
+  },
+  "A2": {
+    "vocabulary": {
+      "avoir un coup de foudre": "/audio/A2_vocab_0.mp3",
+      "tomber amoureux": "/audio/A2_vocab_1.mp3",
+      "se marier": "/audio/A2_vocab_2.mp3",
+      "chaleureux": "/audio/A2_vocab_3.mp3",
+      "optimiste": "/audio/A2_vocab_4.mp3",
+      "pessimiste": "/audio/A2_vocab_5.mp3",
+      "loyer": "/audio/A2_vocab_6.mp3",
+      "propriétaire": "/audio/A2_vocab_7.mp3",
+      "locataire": "/audio/A2_vocab_8.mp3",
+      "colocation": "/audio/A2_vocab_9.mp3",
+      "canapé": "/audio/A2_vocab_10.mp3",
+      "ordinateur": "/audio/A2_vocab_11.mp3",
+      "smartphone": "/audio/A2_vocab_12.mp3",
+      "télécharger": "/audio/A2_vocab_13.mp3",
+      "imprimer": "/audio/A2_vocab_14.mp3",
+      "s'abonner": "/audio/A2_vocab_15.mp3"
+    },
+    "dialogues": {
+      "Tu fais quoi comme travail": "/audio/A2_dialog_0.mp3",
+      "Je suis passionné par": "/audio/A2_dialog_1.mp3",
+      "J'aimerais travailler à l'étranger": "/audio/A2_dialog_2.mp3",
+      "C'est une expérience enrichissante": "/audio/A2_dialog_3.mp3",
+      "J'ai réservé l'hôtel": "/audio/A2_dialog_4.mp3",
+      "Ne manque pas de visiter": "/audio/A2_dialog_5.mp3"
+    }
+  },
+  "B1": {
+    "vocabulary": {
+      "famille nombreuse": "/audio/B1_vocab_0.mp3",
+      "famille monoparentale": "/audio/B1_vocab_1.mp3",
+      "fratrie": "/audio/B1_vocab_2.mp3",
+      "s'intégrer": "/audio/B1_vocab_3.mp3",
+      "se moquer de": "/audio/B1_vocab_4.mp3",
+      "épauler": "/audio/B1_vocab_5.mp3",
+      "briser la glace": "/audio/B1_vocab_6.mp3",
+      "savoir-vivre": "/audio/B1_vocab_7.mp3",
+      "bonnes manières": "/audio/B1_vocab_8.mp3",
+      "applaudissements": "/audio/B1_vocab_9.mp3",
+      "mise en scène": "/audio/B1_vocab_10.mp3",
+      "chef-d'œuvre": "/audio/B1_vocab_11.mp3",
+      "bande-annonce": "/audio/B1_vocab_12.mp3",
+      "scénario": "/audio/B1_vocab_13.mp3",
+      "rôle principal": "/audio/B1_vocab_14.mp3",
+      "CDD": "/audio/B1_vocab_15.mp3",
+      "CDI": "/audio/B1_vocab_16.mp3",
+      "démissionner": "/audio/B1_vocab_17.mp3",
+      "licencier": "/audio/B1_vocab_18.mp3",
+      "grève": "/audio/B1_vocab_19.mp3"
+    },
+    "dialogues": {
+      "À mon avis": "/audio/B1_dialog_0.mp3",
+      "Selon moi": "/audio/B1_dialog_1.mp3",
+      "Je suis d'accord avec": "/audio/B1_dialog_2.mp3",
+      "D'un côté": "/audio/B1_dialog_3.mp3",
+      "De l'autre côté": "/audio/B1_dialog_4.mp3",
+      "Il est important de lutter contre": "/audio/B1_dialog_5.mp3",
+      "Je postule pour le poste de": "/audio/B1_dialog_6.mp3",
+      "J'ai une expérience de 3 ans": "/audio/B1_dialog_7.mp3",
+      "Quels sont les avantages sociaux": "/audio/B1_dialog_8.mp3"
+    }
+  },
+  "B2": {
+    "vocabulary": {
+      "habitat": "/audio/B2_vocab_0.mp3",
+      "organisme vivant": "/audio/B2_vocab_1.mp3",
+      "prédateur": "/audio/B2_vocab_2.mp3",
+      "proie": "/audio/B2_vocab_3.mp3",
+      "sauvage": "/audio/B2_vocab_4.mp3",
+      "domestique": "/audio/B2_vocab_5.mp3",
+      "déforestation": "/audio/B2_vocab_6.mp3",
+      "extinction": "/audio/B2_vocab_7.mp3",
+      "réserve naturelle": "/audio/B2_vocab_8.mp3",
+      "inflation": "/audio/B2_vocab_9.mp3",
+      "rentabilité": "/audio/B2_vocab_10.mp3",
+      "grossiste": "/audio/B2_vocab_11.mp3",
+      "détaillant": "/audio/B2_vocab_12.mp3",
+      "CDI": "/audio/B2_vocab_13.mp3",
+      "CDD": "/audio/B2_vocab_14.mp3",
+      "rompre le contrat": "/audio/B2_vocab_15.mp3",
+      "séminaire": "/audio/B2_vocab_16.mp3",
+      "colloque": "/audio/B2_vocab_17.mp3",
+      "dissertation": "/audio/B2_vocab_18.mp3",
+      "double diplôme": "/audio/B2_vocab_19.mp3"
+    },
+    "dialogues": {
+      "J'affirme que": "/audio/B2_dialog_0.mp3",
+      "Je soutiens que": "/audio/B2_dialog_1.mp3",
+      "Il est indéniable que": "/audio/B2_dialog_2.mp3",
+      "J'objecte que": "/audio/B2_dialog_3.mp3",
+      "Je conteste le fait que": "/audio/B2_dialog_4.mp3",
+      "Je tiens à souligner que": "/audio/B2_dialog_5.mp3",
+      "Il faut noter que": "/audio/B2_dialog_6.mp3",
+      "Il convient de": "/audio/B2_dialog_7.mp3",
+      "Il s'avère que": "/audio/B2_dialog_8.mp3"
+    }
+  }
+}

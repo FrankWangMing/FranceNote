@@ -1,0 +1,65 @@
+{
+  "A1": {
+    "1. 核心语法 (Grammaire)": {
+      "1.1 基础动词变位": "*   **être (是)**: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont.\n*   **avoir (有)**: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont.\n*   **aller (去)**: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont.\n*   **第一组动词 (-er)**: 去掉 -er，加词尾 -e, -es, -e, -ons, -ez, -ent. (如: parler, habiter, aimer)",
+      "1.2 常用句型": "*   **介绍自己**: Je m'appelle... / Je suis... / Moi, c'est...\n*   **年龄**: J'ai [数字] ans. (注意用 avoir)\n*   **地点**: J'habite à [城市] / en [阴性国家] / au [阳性国家].\n*   **疑问句**: \n    *   Comment vous appelez-vous ? (您叫什么名字？)\n    *   Où habites-tu ? (你住在哪？)\n    *   Qu'est-ce que c'est ? (这是什么？) / Qui est-ce ? (这是谁？)"
+    },
+    "2. 核心词汇 (Vocabulaire)": {
+      "2.1 个人信息与职业": "*   **身份**: nom (姓), prénom (名), nationalité (国籍), âge (年龄), célibataire (单身), marié(e) (已婚).\n*   **职业**: professeur (老师), étudiant(e) (学生), journaliste (记者), architecte (建筑师), informaticien(ne) (程序员), vendeur/vendeuse (售货员).",
+      "2.2 日常生活": "*   **家庭**: parents (父母), père/mère, frère/sœur, fils/fille, grand-père/grand-mère, oncle/tante, cousin(e).\n*   **食物**: pain (面包), fromage (奶酪), fruit (水果), légume (蔬菜), viande (肉), poisson (鱼), lait (牛奶), eau (水).\n*   **衣物**: vêtement, robe (连衣裙), pantalon (裤子), chemise (衬衫), chaussures (鞋子)."
+    },
+    "3. 情景对话精华 (Situations & Dialogues)": {
+      "3.1 自我介绍 (Se présenter)": "*   **关键句**: \n    *   Enchanté(e) ! (很高兴认识你！)\n    *   Tu viens d'où ? (你来自哪里？) - Je viens de Chine.\n    *   Bienvenue ! (欢迎！)",
+      "3.2 购物与询价 (Demander le prix)": "*   **关键句**:\n    *   Combien ça coûte ? / C'est combien ? (多少钱？)\n    *   Je voudrais... (我想要...)\n    *   Je vais payer par carte / en espèces. (我用卡/现金支付。)\n    *   Ça vaut le coup. (很划算/值得。)",
+      "3.3 问路 (Demander son chemin)": "*   **关键句**:\n    *   Excusez-moi, je cherche... (打扰了，我在找...)\n    *   Allez tout droit. (直走。)\n    *   Tournez à droite / à gauche. (右转/左转。)\n    *   C'est loin / près d'ici ? (离这远/近吗？)"
+    }
+  },
+  "A2": {
+    "1. 核心语法 (Grammaire)": {
+      "1.1 过去时态对比": "*   **复合过去时 (Passé Composé)**: 表达过去发生的、已完成的具体动作。\n    *   构成：助动词 (avoir/être) + 过去分词 (p.p.)。\n    *   注意：17个位移动词及代词式动词用 être 做助动词，且 p.p. 需性数配合。\n*   **未完成过去时 (Imparfait)**: 表达过去的状态、习惯、背景或正在进行的动作。\n    *   构成：去掉 nous 变位的词尾 -ons，加 -ais, -ais, -ait, -ions, -iez, -aient。",
+      "1.2 关系代词 (Pronoms Relatifs)": "*   **Qui**: 代替主语，后接动词。 (例: L'ami qui habite à Paris.)\n*   **Que**: 代替直接宾语，后接主语+动词。 (例: Le livre que je lis.)",
+      "1.3 表达将来": "*   **最近将来时 (Futur Proche)**: aller + 动词不定式。 (例: Je vais partir.)\n*   **简单将来时 (Futur Simple)**: 词根 + -ai, -as, -a, -ons, -ez, -ont。"
+    },
+    "2. 核心词汇 (Vocabulaire)": {
+      "2.1 情感与关系": "*   **爱情**: avoir un coup de foudre (一见钟情), tomber amoureux(se) de (爱上), se marier avec (结婚).\n*   **性格**: chaleureux/froid (热情/冷淡), optimiste/pessimiste (乐观/悲观), travailleur/paresseux (勤劳/懒惰).",
+      "2.2 居住与环境": "*   **租房**: loyer (租金), charges (杂费), propriétaire (房东), locataire (租客), colocation (合租).\n*   **家具**: canapé (沙发), étagère (架子), lave-vaisselle (洗碗机), rideau (窗帘).",
+      "2.3 科技与通讯": "*   **设备**: ordinateur (电脑), smartphone, imprimante (打印机), logiciel (软件).\n*   **动作**: télécharger (下载), imprimer (打印), s'abonner à (订阅)."
+    },
+    "3. 情景对话精华 (Situations & Dialogues)": {
+      "3.1 谈论职业与计划 (Métier et Projets)": "*   **关键句**:\n    *   Tu fais quoi comme travail ? (你做什么工作？)\n    *   Je suis passionné(e) par... (我对...充满热情。)\n    *   J'aimerais travailler à l'étranger. (我想在国外工作。)\n    *   C'est une expérience enrichissante. (这是一次充实的经历。)",
+      "3.2 计划假期 (Planifier les vacances)": "*   **关键句**:\n    *   J'ai réservé l'hôtel et loué une voiture. (我订了酒店并租了车。)\n    *   Ne manque pas de visiter... (不要错过参观...)\n    *   C'est un endroit parfait pour se détendre. (这是一个放松的完美地点。)"
+    }
+  },
+  "B1": {
+    "1. 核心语法 (Grammaire)": {
+      "1.1 虚拟式 (Le Subjonctif)": "*   **用法**: 表达主观愿望、情感、怀疑、判断或必要性。\n*   **触发词**: Il faut que... (必须), Je veux que... (我想要), Je suis content que... (我很高兴), Bien que... (尽管).\n*   **构成**: ils 变位去掉 -ent，加 -e, -es, -e, -ions, -iez, -ent. (注意 nous/vous 形式同未完成过去时)",
+      "1.2 条件式 (Le Conditionnel)": "*   **用法**: 表达礼貌请求、建议、假设或推测。\n*   **构成**: 简单将来时词根 + 未完成过去时词尾 (-ais, -ais, -ait, -ions, -iez, -aient).\n*   **Si 引导的假设**: Si + Imparfait -> Conditionnel Présent. (例: Si j'avais de l'argent, je voyagerais.)",
+      "1.3 关系代词进阶": "*   **Dont**: 代替由介词 de 引导的补语。 (例: C'est le film dont je parle.)\n*   **Où**: 代替地点或时间。 (例: La ville où je suis né.)"
+    },
+    "2. 核心词汇 (Vocabulaire)": {
+      "2.1 社会与生活": "*   **家庭**: famille nombreuse (大家庭), famille monoparentale (单亲家庭), fratrie (兄弟姐妹总称).\n*   **社会交往**: s'intégrer (融入), se moquer de (嘲笑), épauler (扶持), briser la glace (破冰).\n*   **礼仪**: savoir-vivre (礼貌/教养), bonnes manières, marque de respect.",
+      "2.2 艺术与媒体": "*   **表演**: applaudissements (掌声), coulisses (后台), mise en scène (导演/场面调度), chef-d'œuvre (杰作).\n*   **电影**: bande-annonce (预告片), scénario (剧本), rôle principal (主角), sortie (上映).",
+      "2.3 职场与学业": "*   **工作**: CDD/CDI, fiche de paie (工资单), démissionner (辞职), licencier (解雇), grève (罢工).\n*   **学习**: bourse (奖学金), stage (实习), diplôme (文凭), rattrapage (补考)."
+    },
+    "3. 情景对话精华 (Situations & Dialogues)": {
+      "3.1 讨论社会话题 (Sujets de Société)": "*   **关键句**:\n    *   À mon avis... / Selon moi... (在我看来...)\n    *   Je suis d'accord avec... (我同意...)\n    *   D'un côté... de l'autre côté... (一方面...另一方面...)\n    *   Il est important de lutter contre... (反对...很重要。)",
+      "3.2 职场交流 (Monde du Travail)": "*   **关键句**:\n    *   Je postule pour le poste de... (我应聘...职位。)\n    *   J'ai une expérience de 3 ans dans... (我在...方面有3年经验。)\n    *   Quels sont les avantages sociaux ? (有哪些社会福利？)"
+    }
+  },
+  "B2": {
+    "1. 核心语法 (Grammaire)": {
+      "1.1 复合时态与高级时态": "*   **愈过去时 (Plus-que-parfait)**: 表达“过去的过去”。 (例: J'avais déjà mangé quand il est arrivé.)\n*   **先将来时 (Futur Antérieur)**: 表达在将来另一个动作之前完成的动作。 (例: J'aurai fini mon travail quand tu viendras.)\n*   **虚拟式过去时 (Subjonctif Passé)**: 表达在主句动作之前已经完成的、需用虚拟式的动作。",
+      "1.2 逻辑关联词 (Articulateurs Logiques)": "*   **原因**: parce que, car, puisque (既然), grâce à (由于/多亏), à cause de (因为/由于).\n*   **结果**: donc, par conséquent, si bien que, de sorte que.\n*   **对立与让步**: mais, cependant, pourtant, bien que (+ subjonctif), malgré (+ nom).\n*   **目的**: pour que (+ subjonctif), afin de (+ infinitif).",
+      "1.3 名词化 (Nominalisation)": "*   将动词或形容词转换为名词，常用于新闻标题或正式写作。 (例: partir -> le départ, beau -> la beauté)."
+    },
+    "2. 核心词汇 (Vocabulaire)": {
+      "2.1 环境与生态 (Environnement)": "*   **生物**: habitat (栖息地), prédateur (捕食者), proie (猎物), espèce en voie d'extinction (濒危物种).\n*   **灾害与保护**: catastrophe naturelle, déforestation (砍伐森林), réserve naturelle, biodiversité.",
+      "2.2 经济与消费 (Économie)": "*   **市场**: inflation (通货膨胀), rentabilité (盈利能力), grossiste (批发商), détaillant (零售商).\n*   **支付**: paiement sans contact, distributeur automatique, encaisser.",
+      "2.3 职场与学业 (Travail & Études)": "*   **合同**: CDI/CDD, rompre le contrat (解除合同), démissionner, licencier.\n*   **学术**: séminaire (研讨会), colloque (学术讨论会), dissertation (论文), double diplôme."
+    },
+    "3. 表达技巧精华 (Techniques d'Expression)": {
+      "3.1 陈述与辩论 (Argumentation)": "*   **陈述观点**: J'affirme que... (我断言), Je soutiens que... (我主张), Il est indéniable que... (不可否认的是).\n*   **提出异议**: J'objecte que... (我反对), Je conteste le fait que... (我质疑...).\n*   **强调**: Je tiens à souligner que... (我想强调的是), Il faut noter que... (必须注意到...).",
+      "3.2 写作高级表达": "*   使用**无人称结构**: Il convient de... (应该...), Il s'avère que... (事实证明...).\n*   使用**强调句**: C'est... qui/que... (正是...)."
+    }
+  }
+}

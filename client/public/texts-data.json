@@ -1,0 +1,144 @@
+{
+  "A1": [
+    {
+      "title": "课文 1: 自我介绍",
+      "french": "Je m'appelle Marie. Je suis française. J'habite à Paris. Je suis étudiante.",
+      "chinese": "我叫玛丽。我是法国人。我住在巴黎。我是学生。",
+      "vocabulary": [
+        "s'appeler: 叫做",
+        "français(e): 法国的",
+        "habiter: 住",
+        "étudiant(e): 学生"
+      ]
+    },
+    {
+      "title": "课文 2: 在咖啡馆",
+      "french": "Bonjour! Un café, s'il vous plaît. Voilà. Ça coûte combien? Trois euros.",
+      "chinese": "你好！请来一杯咖啡。给您。多少钱？三欧元。",
+      "vocabulary": [
+        "café: 咖啡",
+        "coûter: 花费",
+        "combien: 多少"
+      ]
+    },
+    {
+      "title": "课文 3: 问路",
+      "french": "Excusez-moi, où est la gare? La gare est près d'ici. Merci beaucoup!",
+      "chinese": "对不起，火车站在哪里？火车站就在这附近。非常感谢！",
+      "vocabulary": [
+        "gare: 火车站",
+        "près: 近",
+        "merci: 谢谢"
+      ]
+    }
+  ],
+  "A2": [
+    {
+      "title": "课文 1: 家庭介绍",
+      "french": "Ma famille est grande. J'ai un père, une mère, deux frères et une sœur. Nous habitons ensemble.",
+      "chinese": "我的家庭很大。我有一个父亲、一个母亲、两个哥哥和一个妹妹。我们住在一起。",
+      "vocabulary": [
+        "famille: 家庭",
+        "père: 父亲",
+        "mère: 母亲",
+        "frère: 哥哥",
+        "sœur: 妹妹"
+      ]
+    },
+    {
+      "title": "课文 2: 日常活动",
+      "french": "Je me lève à 7 heures. Je prends le petit-déjeuner. Je vais au travail. Je rentre à 18 heures.",
+      "chinese": "我7点起床。我吃早餐。我去上班。我下午6点回家。",
+      "vocabulary": [
+        "se lever: 起床",
+        "petit-déjeuner: 早餐",
+        "aller: 去",
+        "rentrer: 回来"
+      ]
+    },
+    {
+      "title": "课文 3: 购物",
+      "french": "Je voudrais une robe rouge. Quelle taille? Taille M. Ça coûte 50 euros.",
+      "chinese": "我想要一件红色连衣裙。什么尺寸？M码。要50欧元。",
+      "vocabulary": [
+        "robe: 连衣裙",
+        "rouge: 红色",
+        "taille: 尺寸",
+        "euro: 欧元"
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "title": "课文 1: 工作经验",
+      "french": "J'ai travaillé dans une entreprise pendant trois ans. J'étais responsable du marketing. Le travail était intéressant mais stressant.",
+      "chinese": "我在一家公司工作了三年。我负责市场营销。这项工作很有趣但压力很大。",
+      "vocabulary": [
+        "entreprise: 公司",
+        "responsable: 负责人",
+        "marketing: 市场营销",
+        "stressant: 压力大的"
+      ]
+    },
+    {
+      "title": "课文 2: 旅行计划",
+      "french": "Je vais voyager en France cet été. Je visiterai Paris, Lyon et Marseille. Je suis très excité!",
+      "chinese": "今年夏天我将去法国旅行。我将访问巴黎、里昂和马赛。我非常兴奋！",
+      "vocabulary": [
+        "voyager: 旅行",
+        "visiter: 访问",
+        "excité: 兴奋的",
+        "cet été: 今年夏天"
+      ]
+    },
+    {
+      "title": "课文 3: 环境问题",
+      "french": "Le changement climatique est un problème grave. Nous devons réduire les émissions de carbone. Chacun peut contribuer.",
+      "chinese": "气候变化是一个严重的问题。我们必须减少碳排放。每个人都可以做出贡献。",
+      "vocabulary": [
+        "changement climatique: 气候变化",
+        "grave: 严重的",
+        "réduire: 减少",
+        "émission: 排放"
+      ]
+    }
+  ],
+  "B2": [
+    {
+      "title": "课文 1: 文化差异",
+      "french": "Les différences culturelles enrichissent notre société. Il est important de respecter les traditions des autres. La tolérance est la clé de la coexistence pacifique.",
+      "chinese": "文化差异丰富了我们的社会。尊重他人的传统很重要。宽容是和平共处的关键。",
+      "vocabulary": [
+        "différence: 差异",
+        "enrichir: 丰富",
+        "respecter: 尊重",
+        "tradition: 传统",
+        "tolérance: 宽容"
+      ]
+    },
+    {
+      "title": "课文 2: 科技进步",
+      "french": "La technologie a transformé notre vie quotidienne. Internet nous permet de communiquer instantanément. Cependant, nous devons être vigilants face aux risques de cybersécurité.",
+      "chinese": "技术改变了我们的日常生活。互联网让我们能够即时沟通。然而，我们必须警惕网络安全风险。",
+      "vocabulary": [
+        "technologie: 技术",
+        "transformer: 改变",
+        "quotidien: 日常的",
+        "instantanément: 即时地",
+        "cybersécurité: 网络安全"
+      ]
+    },
+    {
+      "title": "课文 3: 教育改革",
+      "french": "L'éducation est la fondation du développement personnel. Les systèmes éducatifs doivent s'adapter aux besoins du 21e siècle. L'apprentissage tout au long de la vie est essentiel.",
+      "chinese": "教育是个人发展的基础。教育系统必须适应21世纪的需求。终身学习是必不可少的。",
+      "vocabulary": [
+        "éducation: 教育",
+        "fondation: 基础",
+        "développement: 发展",
+        "apprentissage: 学习",
+        "essentiel: 必不可少的"
+      ]
+    }
+  ]
+}

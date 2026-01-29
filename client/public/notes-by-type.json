@@ -1,0 +1,246 @@
+{
+  "A1": {
+    "grammar": [
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.1 基础动词变位",
+        "content": "*   **être (是)**: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont.\n*   **avoir (有)**: j'ai, tu as, il/elle a, nous avons, vous avez, ils/elles ont.\n*   **aller (去)**: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont.\n*   **第一组动词 (-er)**: 去掉 -er，加词尾 -e, -es, -e, -ons, -ez, -ent. (如: parler, habiter, aimer)"
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.2 常用句型",
+        "content": "*   **介绍自己**: Je m'appelle... / Je suis... / Moi, c'est...\n*   **年龄**: J'ai [数字] ans. (注意用 avoir)\n*   **地点**: J'habite à [城市] / en [阴性国家] / au [阳性国家].\n*   **疑问句**: \n    *   Comment vous appelez-vous ? (您叫什么名字？)\n    *   Où habites-tu ? (你住在哪？)\n    *   Qu'est-ce que c'est ? (这是什么？) / Qui est-ce ? (这是谁？)"
+      }
+    ],
+    "vocabulary": [
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.1 个人信息与职业",
+        "content": "*   **身份**: nom (姓), prénom (名), nationalité (国籍), âge (年龄), célibataire (单身), marié(e) (已婚).\n*   **职业**: professeur (老师), étudiant(e) (学生), journaliste (记者), architecte (建筑师), informaticien(ne) (程序员), vendeur/vendeuse (售货员)."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.2 日常生活",
+        "content": "*   **家庭**: parents (父母), père/mère, frère/sœur, fils/fille, grand-père/grand-mère, oncle/tante, cousin(e).\n*   **食物**: pain (面包), fromage (奶酪), fruit (水果), légume (蔬菜), viande (肉), poisson (鱼), lait (牛奶), eau (水).\n*   **衣物**: vêtement, robe (连衣裙), pantalon (裤子), chemise (衬衫), chaussures (鞋子)."
+      }
+    ],
+    "texts": [
+      {
+        "section": "课文 1: 自我介绍",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nJe m'appelle Marie. Je suis française. J'habite à Paris. Je suis étudiante.\n\n### 中文翻译\n我叫玛丽。我是法国人。我住在巴黎。我是学生。\n\n### 关键词汇\n- **s'appeler: 叫做**\n- **français(e): 法国的**\n- **habiter: 住**\n- **étudiant(e): 学生**\n"
+      },
+      {
+        "section": "课文 2: 在咖啡馆",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nBonjour! Un café, s'il vous plaît. Voilà. Ça coûte combien? Trois euros.\n\n### 中文翻译\n你好！请来一杯咖啡。给您。多少钱？三欧元。\n\n### 关键词汇\n- **café: 咖啡**\n- **coûter: 花费**\n- **combien: 多少**\n"
+      },
+      {
+        "section": "课文 3: 问路",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nExcusez-moi, où est la gare? La gare est près d'ici. Merci beaucoup!\n\n### 中文翻译\n对不起，火车站在哪里？火车站就在这附近。非常感谢！\n\n### 关键词汇\n- **gare: 火车站**\n- **près: 近**\n- **merci: 谢谢**\n"
+      }
+    ],
+    "dialogues": [
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.1 自我介绍 (Se présenter)",
+        "content": "*   **关键句**: \n    *   Enchanté(e) ! (很高兴认识你！)\n    *   Tu viens d'où ? (你来自哪里？) - Je viens de Chine.\n    *   Bienvenue ! (欢迎！)"
+      },
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.2 购物与询价 (Demander le prix)",
+        "content": "*   **关键句**:\n    *   Combien ça coûte ? / C'est combien ? (多少钱？)\n    *   Je voudrais... (我想要...)\n    *   Je vais payer par carte / en espèces. (我用卡/现金支付。)\n    *   Ça vaut le coup. (很划算/值得。)"
+      },
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.3 问路 (Demander son chemin)",
+        "content": "*   **关键句**:\n    *   Excusez-moi, je cherche... (打扰了，我在找...)\n    *   Allez tout droit. (直走。)\n    *   Tournez à droite / à gauche. (右转/左转。)\n    *   C'est loin / près d'ici ? (离这远/近吗？)"
+      }
+    ]
+  },
+  "A2": {
+    "grammar": [
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.1 过去时态对比",
+        "content": "*   **复合过去时 (Passé Composé)**: 表达过去发生的、已完成的具体动作。\n    *   构成：助动词 (avoir/être) + 过去分词 (p.p.)。\n    *   注意：17个位移动词及代词式动词用 être 做助动词，且 p.p. 需性数配合。\n*   **未完成过去时 (Imparfait)**: 表达过去的状态、习惯、背景或正在进行的动作。\n    *   构成：去掉 nous 变位的词尾 -ons，加 -ais, -ais, -ait, -ions, -iez, -aient。"
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.2 关系代词 (Pronoms Relatifs)",
+        "content": "*   **Qui**: 代替主语，后接动词。 (例: L'ami qui habite à Paris.)\n*   **Que**: 代替直接宾语，后接主语+动词。 (例: Le livre que je lis.)"
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.3 表达将来",
+        "content": "*   **最近将来时 (Futur Proche)**: aller + 动词不定式。 (例: Je vais partir.)\n*   **简单将来时 (Futur Simple)**: 词根 + -ai, -as, -a, -ons, -ez, -ont。"
+      }
+    ],
+    "vocabulary": [
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.1 情感与关系",
+        "content": "*   **爱情**: avoir un coup de foudre (一见钟情), tomber amoureux(se) de (爱上), se marier avec (结婚).\n*   **性格**: chaleureux/froid (热情/冷淡), optimiste/pessimiste (乐观/悲观), travailleur/paresseux (勤劳/懒惰)."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.2 居住与环境",
+        "content": "*   **租房**: loyer (租金), charges (杂费), propriétaire (房东), locataire (租客), colocation (合租).\n*   **家具**: canapé (沙发), étagère (架子), lave-vaisselle (洗碗机), rideau (窗帘)."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.3 科技与通讯",
+        "content": "*   **设备**: ordinateur (电脑), smartphone, imprimante (打印机), logiciel (软件).\n*   **动作**: télécharger (下载), imprimer (打印), s'abonner à (订阅)."
+      }
+    ],
+    "texts": [
+      {
+        "section": "课文 1: 家庭介绍",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nMa famille est grande. J'ai un père, une mère, deux frères et une sœur. Nous habitons ensemble.\n\n### 中文翻译\n我的家庭很大。我有一个父亲、一个母亲、两个哥哥和一个妹妹。我们住在一起。\n\n### 关键词汇\n- **famille: 家庭**\n- **père: 父亲**\n- **mère: 母亲**\n- **frère: 哥哥**\n- **sœur: 妹妹**\n"
+      },
+      {
+        "section": "课文 2: 日常活动",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nJe me lève à 7 heures. Je prends le petit-déjeuner. Je vais au travail. Je rentre à 18 heures.\n\n### 中文翻译\n我7点起床。我吃早餐。我去上班。我下午6点回家。\n\n### 关键词汇\n- **se lever: 起床**\n- **petit-déjeuner: 早餐**\n- **aller: 去**\n- **rentrer: 回来**\n"
+      },
+      {
+        "section": "课文 3: 购物",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nJe voudrais une robe rouge. Quelle taille? Taille M. Ça coûte 50 euros.\n\n### 中文翻译\n我想要一件红色连衣裙。什么尺寸？M码。要50欧元。\n\n### 关键词汇\n- **robe: 连衣裙**\n- **rouge: 红色**\n- **taille: 尺寸**\n- **euro: 欧元**\n"
+      }
+    ],
+    "dialogues": [
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.1 谈论职业与计划 (Métier et Projets)",
+        "content": "*   **关键句**:\n    *   Tu fais quoi comme travail ? (你做什么工作？)\n    *   Je suis passionné(e) par... (我对...充满热情。)\n    *   J'aimerais travailler à l'étranger. (我想在国外工作。)\n    *   C'est une expérience enrichissante. (这是一次充实的经历。)"
+      },
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.2 计划假期 (Planifier les vacances)",
+        "content": "*   **关键句**:\n    *   J'ai réservé l'hôtel et loué une voiture. (我订了酒店并租了车。)\n    *   Ne manque pas de visiter... (不要错过参观...)\n    *   C'est un endroit parfait pour se détendre. (这是一个放松的完美地点。)"
+      }
+    ]
+  },
+  "B1": {
+    "grammar": [
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.1 虚拟式 (Le Subjonctif)",
+        "content": "*   **用法**: 表达主观愿望、情感、怀疑、判断或必要性。\n*   **触发词**: Il faut que... (必须), Je veux que... (我想要), Je suis content que... (我很高兴), Bien que... (尽管).\n*   **构成**: ils 变位去掉 -ent，加 -e, -es, -e, -ions, -iez, -ent. (注意 nous/vous 形式同未完成过去时)"
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.2 条件式 (Le Conditionnel)",
+        "content": "*   **用法**: 表达礼貌请求、建议、假设或推测。\n*   **构成**: 简单将来时词根 + 未完成过去时词尾 (-ais, -ais, -ait, -ions, -iez, -aient).\n*   **Si 引导的假设**: Si + Imparfait -> Conditionnel Présent. (例: Si j'avais de l'argent, je voyagerais.)"
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.3 关系代词进阶",
+        "content": "*   **Dont**: 代替由介词 de 引导的补语。 (例: C'est le film dont je parle.)\n*   **Où**: 代替地点或时间。 (例: La ville où je suis né.)"
+      }
+    ],
+    "vocabulary": [
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.1 社会与生活",
+        "content": "*   **家庭**: famille nombreuse (大家庭), famille monoparentale (单亲家庭), fratrie (兄弟姐妹总称).\n*   **社会交往**: s'intégrer (融入), se moquer de (嘲笑), épauler (扶持), briser la glace (破冰).\n*   **礼仪**: savoir-vivre (礼貌/教养), bonnes manières, marque de respect."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.2 艺术与媒体",
+        "content": "*   **表演**: applaudissements (掌声), coulisses (后台), mise en scène (导演/场面调度), chef-d'œuvre (杰作).\n*   **电影**: bande-annonce (预告片), scénario (剧本), rôle principal (主角), sortie (上映)."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.3 职场与学业",
+        "content": "*   **工作**: CDD/CDI, fiche de paie (工资单), démissionner (辞职), licencier (解雇), grève (罢工).\n*   **学习**: bourse (奖学金), stage (实习), diplôme (文凭), rattrapage (补考)."
+      }
+    ],
+    "texts": [
+      {
+        "section": "课文 1: 工作经验",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nJ'ai travaillé dans une entreprise pendant trois ans. J'étais responsable du marketing. Le travail était intéressant mais stressant.\n\n### 中文翻译\n我在一家公司工作了三年。我负责市场营销。这项工作很有趣但压力很大。\n\n### 关键词汇\n- **entreprise: 公司**\n- **responsable: 负责人**\n- **marketing: 市场营销**\n- **stressant: 压力大的**\n"
+      },
+      {
+        "section": "课文 2: 旅行计划",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nJe vais voyager en France cet été. Je visiterai Paris, Lyon et Marseille. Je suis très excité!\n\n### 中文翻译\n今年夏天我将去法国旅行。我将访问巴黎、里昂和马赛。我非常兴奋！\n\n### 关键词汇\n- **voyager: 旅行**\n- **visiter: 访问**\n- **excité: 兴奋的**\n- **cet été: 今年夏天**\n"
+      },
+      {
+        "section": "课文 3: 环境问题",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nLe changement climatique est un problème grave. Nous devons réduire les émissions de carbone. Chacun peut contribuer.\n\n### 中文翻译\n气候变化是一个严重的问题。我们必须减少碳排放。每个人都可以做出贡献。\n\n### 关键词汇\n- **changement climatique: 气候变化**\n- **grave: 严重的**\n- **réduire: 减少**\n- **émission: 排放**\n"
+      }
+    ],
+    "dialogues": [
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.1 讨论社会话题 (Sujets de Société)",
+        "content": "*   **关键句**:\n    *   À mon avis... / Selon moi... (在我看来...)\n    *   Je suis d'accord avec... (我同意...)\n    *   D'un côté... de l'autre côté... (一方面...另一方面...)\n    *   Il est important de lutter contre... (反对...很重要。)"
+      },
+      {
+        "section": "3. 情景对话精华 (Situations & Dialogues)",
+        "subsection": "3.2 职场交流 (Monde du Travail)",
+        "content": "*   **关键句**:\n    *   Je postule pour le poste de... (我应聘...职位。)\n    *   J'ai une expérience de 3 ans dans... (我在...方面有3年经验。)\n    *   Quels sont les avantages sociaux ? (有哪些社会福利？)"
+      }
+    ]
+  },
+  "B2": {
+    "grammar": [
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.1 复合时态与高级时态",
+        "content": "*   **愈过去时 (Plus-que-parfait)**: 表达“过去的过去”。 (例: J'avais déjà mangé quand il est arrivé.)\n*   **先将来时 (Futur Antérieur)**: 表达在将来另一个动作之前完成的动作。 (例: J'aurai fini mon travail quand tu viendras.)\n*   **虚拟式过去时 (Subjonctif Passé)**: 表达在主句动作之前已经完成的、需用虚拟式的动作。"
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.2 逻辑关联词 (Articulateurs Logiques)",
+        "content": "*   **原因**: parce que, car, puisque (既然), grâce à (由于/多亏), à cause de (因为/由于).\n*   **结果**: donc, par conséquent, si bien que, de sorte que.\n*   **对立与让步**: mais, cependant, pourtant, bien que (+ subjonctif), malgré (+ nom).\n*   **目的**: pour que (+ subjonctif), afin de (+ infinitif)."
+      },
+      {
+        "section": "1. 核心语法 (Grammaire)",
+        "subsection": "1.3 名词化 (Nominalisation)",
+        "content": "*   将动词或形容词转换为名词，常用于新闻标题或正式写作。 (例: partir -> le départ, beau -> la beauté)."
+      }
+    ],
+    "vocabulary": [
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.1 环境与生态 (Environnement)",
+        "content": "*   **生物**: habitat (栖息地), prédateur (捕食者), proie (猎物), espèce en voie d'extinction (濒危物种).\n*   **灾害与保护**: catastrophe naturelle, déforestation (砍伐森林), réserve naturelle, biodiversité."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.2 经济与消费 (Économie)",
+        "content": "*   **市场**: inflation (通货膨胀), rentabilité (盈利能力), grossiste (批发商), détaillant (零售商).\n*   **支付**: paiement sans contact, distributeur automatique, encaisser."
+      },
+      {
+        "section": "2. 核心词汇 (Vocabulaire)",
+        "subsection": "2.3 职场与学业 (Travail & Études)",
+        "content": "*   **合同**: CDI/CDD, rompre le contrat (解除合同), démissionner, licencier.\n*   **学术**: séminaire (研讨会), colloque (学术讨论会), dissertation (论文), double diplôme."
+      }
+    ],
+    "texts": [
+      {
+        "section": "课文 1: 文化差异",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nLes différences culturelles enrichissent notre société. Il est important de respecter les traditions des autres. La tolérance est la clé de la coexistence pacifique.\n\n### 中文翻译\n文化差异丰富了我们的社会。尊重他人的传统很重要。宽容是和平共处的关键。\n\n### 关键词汇\n- **différence: 差异**\n- **enrichir: 丰富**\n- **respecter: 尊重**\n- **tradition: 传统**\n- **tolérance: 宽容**\n"
+      },
+      {
+        "section": "课文 2: 科技进步",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nLa technologie a transformé notre vie quotidienne. Internet nous permet de communiquer instantanément. Cependant, nous devons être vigilants face aux risques de cybersécurité.\n\n### 中文翻译\n技术改变了我们的日常生活。互联网让我们能够即时沟通。然而，我们必须警惕网络安全风险。\n\n### 关键词汇\n- **technologie: 技术**\n- **transformer: 改变**\n- **quotidien: 日常的**\n- **instantanément: 即时地**\n- **cybersécurité: 网络安全**\n"
+      },
+      {
+        "section": "课文 3: 教育改革",
+        "subsection": "课文详解",
+        "content": "### 法语原文\nL'éducation est la fondation du développement personnel. Les systèmes éducatifs doivent s'adapter aux besoins du 21e siècle. L'apprentissage tout au long de la vie est essentiel.\n\n### 中文翻译\n教育是个人发展的基础。教育系统必须适应21世纪的需求。终身学习是必不可少的。\n\n### 关键词汇\n- **éducation: 教育**\n- **fondation: 基础**\n- **développement: 发展**\n- **apprentissage: 学习**\n- **essentiel: 必不可少的**\n"
+      }
+    ],
+    "dialogues": []
+  }
+}

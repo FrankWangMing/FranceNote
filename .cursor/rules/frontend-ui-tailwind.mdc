@@ -1,0 +1,28 @@
+---
+description: UI 与样式：优先 Tailwind、cn() 合并类、与现有 components/ui 的用法一致
+globs: client/src/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# UI 与 Tailwind 约定
+
+## 类名与工具
+
+- 样式用 **Tailwind** 工具类；需要合并或条件类时使用项目已有的 `cn()`（来自 `@/lib/utils`）。
+- 不要写复杂内联 `style`，优先 Tailwind；确有需要再用 `style`。
+
+```typescript
+import { cn } from "@/lib/utils";
+
+<div className={cn("flex gap-2", isActive && "bg-accent", className)} />
+```
+
+## 与 components/ui 一致
+
+- 使用 `client/src/components/ui` 下已有组件（Button、Card、Input、Dialog 等），不要重复造轮子。
+- 这些组件基于 Radix UI，已处理焦点、键盘、ARIA；应用根已包 `TooltipProvider`、`Toaster`，新页面无需再包。
+- 主题通过 `ThemeProvider`（见 App.tsx）和 `index.css` 中的 CSS 变量（如 `--background`、`--foreground`）统一；新组件用语义化类（如 `bg-background`、`text-foreground`）。
+
+## 组件变体
+
+- 若组件有多种视觉变体，沿用 `class-variance-authority`（cva）+ `cn()` 模式，与 `components/ui/button.tsx` 一致；通过 `className` 支持外部覆盖。

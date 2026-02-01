@@ -1,0 +1,29 @@
+---
+description: 可访问性基线：语义标签、ARIA、焦点、键盘、颜色对比
+globs: client/src/**/*.tsx
+alwaysApply: false
+---
+
+# 可访问性约定
+
+## 语义
+
+- 可点击触发动作用 `<button>`，跳转用 `<a href="...">`；不用 `div`/`span` + `onClick` 冒充按钮或链接。
+- 标题用 `<h1>`～`<h6>`，层级连续不跳级；按结构用 `<nav>`、`<main>`、`<section>` 等。
+
+## 图片与媒体
+
+- 有意义的图片必须写 `alt`；纯装饰图用 `alt=""` 或 `role="presentation"`。
+
+## 焦点与键盘
+
+- 所有可交互元素可用键盘聚焦（Tab）；不随意用 `tabIndex={-1}` 剥夺焦点。
+- 自定义控件（下拉、弹层、手风琴）需：焦点进入/离开逻辑合理、Esc 关闭、方向键/Enter/Space 与行为一致。
+
+## 表单
+
+- 每个 `<input>`/`<select>`/`<textarea>` 都有可见的 `<Label>` 或 `aria-label`；错误状态用 `aria-invalid` 并与错误文案关联（如 `aria-describedby`）。
+
+## 颜色与对比
+
+- 不单独用颜色传达信息（配合文字或图标）；文字与背景对比度足够；焦点环可见（项目 UI 已用 `focus-visible`）。

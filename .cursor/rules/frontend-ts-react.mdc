@@ -1,0 +1,42 @@
+---
+description: React + TypeScript 通用约定：函数组件、类型定义、Hooks 使用、错误边界与 key 等
+globs: client/src/**/*.{ts,tsx}
+alwaysApply: false
+---
+
+# React + TypeScript 约定
+
+## 组件与类型
+
+- 使用**函数组件**，为 props 定义明确的 `interface` 或 `type`。
+- 导出：页面用 `export default`，可复用组件可用 `export function` 或 `export default`，与 `client/src` 现有风格一致。
+
+```typescript
+// 推荐：明确 Props 类型
+interface MyCardProps {
+  title: string;
+  onSelect?: () => void;
+}
+
+export function MyCard({ title, onSelect }: MyCardProps) {
+  return <div>...</div>;
+}
+```
+
+## Hooks
+
+- Hooks 只在组件顶层或自定义 Hook 内调用，不放在条件/循环里。
+- `useEffect` 等依赖数组写全，避免遗漏导致陈旧闭包。
+
+## 列表与 key
+
+- 列表渲染必须提供**稳定、唯一**的 `key`（如 id），不要用数组下标作为 key（列表会增删重排时）。
+
+## 错误与异步
+
+- 可能抛错的异步逻辑或第三方组件，放在 `ErrorBoundary` 内；应用根已包一层 `ErrorBoundary`，必要时在局部再包一层。
+
+## 路径与结构
+
+- 使用 `@/` 别名引用 `client/src` 下模块（如 `@/components/ui/button`、`@/lib/utils`）。
+- 新组件按用途放在 `components/`、`pages/`、`contexts/`、`hooks/` 等现有目录中。
